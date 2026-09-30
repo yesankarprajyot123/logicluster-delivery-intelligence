@@ -335,6 +335,32 @@ Interactive box plots allow individual numerical features to be inspected for po
 
 LogiCluster includes an interactive Streamlit application.
 
+## 🖥️ Application Preview
+
+### 🏠 Home
+
+![LogiCluster Home](assets/home.png)
+
+The Home page provides an overview of the project, objective, workflow, and technology stack.
+
+---
+
+### 📊 Data Explorer
+
+![LogiCluster Data Explorer](assets/data-explorer.png)
+
+The Data Explorer allows users to inspect the dataset, data types, statistics, missing values, and other data-quality information.
+
+---
+
+### 🚚 Assign New Delivery
+
+![LogiCluster Assign New Delivery](assets/assign-delivery.png)
+
+The Assign New Delivery section allows users to enter delivery information and assign a new delivery to a learned K-Means cluster.
+
+---
+
 ## Application Sections
 
 ### 🏠 Home
